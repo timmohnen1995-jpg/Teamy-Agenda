@@ -23,349 +23,207 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sha-b4723e0782db06070e7be5d9@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
+UID:sha-ced9fada6ae0dfb53339e4c7@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
 SEQUENCE:0
 STATUS:CONFIRMED
 CLASS:PUBLIC
 TRANSP:OPAQUE
-SUMMARY:Fusion United - Los Barrenderos
-DTSTART;TZID=Europe/Amsterdam:20260906T190000
-DTEND;TZID=Europe/Amsterdam:20260906T210000
-DESCRIPTION:Wedstrijd: Fusion United - Los Barrenderos\nScheidsrechter: Sje
+SUMMARY:Next Gen Heerlen - Los Barrenderos
+DTSTART;TZID=Europe/Amsterdam:20260930T183000
+DTEND;TZID=Europe/Amsterdam:20260930T203000
+DESCRIPTION:Wedstrijd: Next Gen Heerlen - Los Barrenderos\nScheidsrechter: 
+ Maurice Waalboer\nLocatie: Palemig
+LOCATION:Palemig
+ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
+END:VEVENT
+BEGIN:VEVENT
+UID:sha-bae63f0abdf0610cd7dff91b@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+CLASS:PUBLIC
+TRANSP:OPAQUE
+SUMMARY:United - Los Barrenderos
+DTSTART;TZID=Europe/Amsterdam:20261011T190000
+DTEND;TZID=Europe/Amsterdam:20261011T210000
+DESCRIPTION:Wedstrijd: United - Los Barrenderos\nScheidsrechter: Sjef Jamin
+ on\nLocatie: In den biessen
+LOCATION:In den biessen
+ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
+END:VEVENT
+BEGIN:VEVENT
+UID:sha-6f2aa3d7ed7999a5f8cf2537@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+CLASS:PUBLIC
+TRANSP:OPAQUE
+SUMMARY:Zvv Kan Prima - Los Barrenderos
+DTSTART;TZID=Europe/Amsterdam:20261018T200000
+DTEND;TZID=Europe/Amsterdam:20261018T220000
+DESCRIPTION:Wedstrijd: Zvv Kan Prima - Los Barrenderos\nScheidsrechter: Sje
  f Jaminon\nLocatie: In den biessen
 LOCATION:In den biessen
 ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
 END:VEVENT
 BEGIN:VEVENT
-UID:sha-27233fcd48b6bf1aaa5067cb@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Los Barrenderos - Hypo Boys
-DTSTART;TZID=Europe/Amsterdam:20260913T190000
-DTEND;TZID=Europe/Amsterdam:20260913T210000
-DESCRIPTION:Wedstrijd: Los Barrenderos - Hypo Boys\nScheidsrechter: Sjef Ja
- minon\nLocatie: In den biessen
-LOCATION:In den biessen
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-cfa2d3a6be86faadd6a2b88e@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Los Barrenderos - Sc Mergeland
-DTSTART;TZID=Europe/Amsterdam:20260916T213000
-DTEND;TZID=Europe/Amsterdam:20260916T233000
-DESCRIPTION:Wedstrijd: Los Barrenderos - Sc Mergeland\nLocatie: Gitek Nuth
-LOCATION:Gitek Nuth
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-dc44577efd9ad978d4dfc199@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Boca Mestreech - Los Barrenderos
-DTSTART;TZID=Europe/Amsterdam:20261004T200000
-DTEND;TZID=Europe/Amsterdam:20261004T220000
-DESCRIPTION:Wedstrijd: Boca Mestreech - Los Barrenderos\nLocatie: In den bi
- essen
-LOCATION:In den biessen
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-9efbb912434c70cf8da4f0d7@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Zvv Kan Prima - Los Barrenderos
-DTSTART;TZID=Europe/Amsterdam:20261011T200000
-DTEND;TZID=Europe/Amsterdam:20261011T220000
-DESCRIPTION:Wedstrijd: Zvv Kan Prima - Los Barrenderos\nLocatie: In den bie
- ssen
-LOCATION:In den biessen
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-5fc88d0ddc50afa5fedfd0bb@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Los Barrenderos - Northside
-DTSTART;TZID=Europe/Amsterdam:20261018T200000
-DTEND;TZID=Europe/Amsterdam:20261018T220000
-DESCRIPTION:Wedstrijd: Los Barrenderos - Northside\nLocatie: In den biessen
-LOCATION:In den biessen
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-91c68e70ac86802771f7dfa3@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Los Barrenderos - Blue Dynamite
-DTSTART;TZID=Europe/Amsterdam:20261028T203000
-DTEND;TZID=Europe/Amsterdam:20261028T223000
-DESCRIPTION:Wedstrijd: Los Barrenderos - Blue Dynamite\nLocatie: Gitek Nuth
-LOCATION:Gitek Nuth
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-f2e0b0cb11b2a7b8672892e7@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Los Barrenderos - Fusion United
-DTSTART;TZID=Europe/Amsterdam:20261115T190000
-DTEND;TZID=Europe/Amsterdam:20261115T210000
-DESCRIPTION:Wedstrijd: Los Barrenderos - Fusion United\nLocatie: In den bie
- ssen
-LOCATION:In den biessen
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-3d54555d0e8a60b90081ba15@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Hypo Boys - Los Barrenderos
-DTSTART;TZID=Europe/Amsterdam:20261122T180000
-DTEND;TZID=Europe/Amsterdam:20261122T200000
-DESCRIPTION:Wedstrijd: Hypo Boys - Los Barrenderos\nLocatie: In den biessen
-LOCATION:In den biessen
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-6fad20e93aef9bd79c32ef59@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Sc Mergeland - Los Barrenderos
-DTSTART;TZID=Europe/Amsterdam:20261125T183000
-DTEND;TZID=Europe/Amsterdam:20261125T203000
-DESCRIPTION:Wedstrijd: Sc Mergeland - Los Barrenderos\nLocatie: Palemig
-LOCATION:Palemig
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-909957f71870ea5a5bf343a6@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Los Barrenderos - Boca Mestreech
-DTSTART;TZID=Europe/Amsterdam:20261213T200000
-DTEND;TZID=Europe/Amsterdam:20261213T220000
-DESCRIPTION:Wedstrijd: Los Barrenderos - Boca Mestreech\nLocatie: In den bi
- essen
-LOCATION:In den biessen
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-f19d4144e4471b15aeee07b5@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Los Barrenderos - Zvv Kan Prima
-DTSTART;TZID=Europe/Amsterdam:20270110T200000
-DTEND;TZID=Europe/Amsterdam:20270110T220000
-DESCRIPTION:Wedstrijd: Los Barrenderos - Zvv Kan Prima\nLocatie: In den bie
- ssen
-LOCATION:In den biessen
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-a86f04b3991e9e5da49b5e01@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
+UID:sha-e941b8e5545921b7d2db26e0@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
 SEQUENCE:0
 STATUS:CONFIRMED
 CLASS:PUBLIC
 TRANSP:OPAQUE
 SUMMARY:Northside - Los Barrenderos
-DTSTART;TZID=Europe/Amsterdam:20270117T200000
-DTEND;TZID=Europe/Amsterdam:20270117T220000
-DESCRIPTION:Wedstrijd: Northside - Los Barrenderos\nLocatie: In den biessen
+DTSTART;TZID=Europe/Amsterdam:20261025T190000
+DTEND;TZID=Europe/Amsterdam:20261025T210000
+DESCRIPTION:Wedstrijd: Northside - Los Barrenderos\nScheidsrechter: Sjef Ja
+ minon\nLocatie: In den biessen
 LOCATION:In den biessen
 ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
 END:VEVENT
 BEGIN:VEVENT
-UID:sha-9d0174631dd7b6cd7b8b321a@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Blue Dynamite - Los Barrenderos
-DTSTART;TZID=Europe/Amsterdam:20270120T203000
-DTEND;TZID=Europe/Amsterdam:20270120T223000
-DESCRIPTION:Wedstrijd: Blue Dynamite - Los Barrenderos\nLocatie: Gitek Nuth
-LOCATION:Gitek Nuth
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-c6b4b14504da21de9a562a50@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Fusion United - Los Barrenderos
-DTSTART;TZID=Europe/Amsterdam:20270131T200000
-DTEND;TZID=Europe/Amsterdam:20270131T220000
-DESCRIPTION:Wedstrijd: Fusion United - Los Barrenderos\nLocatie: In den bie
- ssen
-LOCATION:In den biessen
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-2d2cc3d176f1ac53de1fbacf@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Los Barrenderos - Hypo Boys
-DTSTART;TZID=Europe/Amsterdam:20270228T190000
-DTEND;TZID=Europe/Amsterdam:20270228T210000
-DESCRIPTION:Wedstrijd: Los Barrenderos - Hypo Boys\nLocatie: In den biessen
-LOCATION:In den biessen
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-84996fcfa762b2edd06a55c6@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
+UID:sha-c5ffb3d597c6759dc5ccb0f0@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
 SEQUENCE:0
 STATUS:CONFIRMED
 CLASS:PUBLIC
 TRANSP:OPAQUE
 SUMMARY:Los Barrenderos - Sc Mergeland
-DTSTART;TZID=Europe/Amsterdam:20270310T193000
-DTEND;TZID=Europe/Amsterdam:20270310T213000
-DESCRIPTION:Wedstrijd: Los Barrenderos - Sc Mergeland\nLocatie: Palemig
+DTSTART;TZID=Europe/Amsterdam:20261028T193000
+DTEND;TZID=Europe/Amsterdam:20261028T213000
+DESCRIPTION:Wedstrijd: Los Barrenderos - Sc Mergeland\nScheidsrechter: maur
+ ice Waalboer\nLocatie: Palemig
 LOCATION:Palemig
 ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
 END:VEVENT
 BEGIN:VEVENT
-UID:sha-82f31c26fa4d7449ac7d8019@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
+UID:sha-d835740111ff02f4dc3f6a1f@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
 SEQUENCE:0
 STATUS:CONFIRMED
 CLASS:PUBLIC
 TRANSP:OPAQUE
 SUMMARY:Boca Mestreech - Los Barrenderos
-DTSTART;TZID=Europe/Amsterdam:20270404T200000
-DTEND;TZID=Europe/Amsterdam:20270404T220000
-DESCRIPTION:Wedstrijd: Boca Mestreech - Los Barrenderos\nLocatie: In den bi
- essen
+DTSTART;TZID=Europe/Amsterdam:20261115T190000
+DTEND;TZID=Europe/Amsterdam:20261115T210000
+DESCRIPTION:Wedstrijd: Boca Mestreech - Los Barrenderos\nScheidsrechter: Sj
+ ef Jaminon\nLocatie: In den biessen
 LOCATION:In den biessen
 ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
 END:VEVENT
 BEGIN:VEVENT
-UID:sha-4280b07c5aa2e61525ffe5ea@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
+UID:sha-4a862a147e5e4e6bcad804bd@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
 SEQUENCE:0
 STATUS:CONFIRMED
 CLASS:PUBLIC
 TRANSP:OPAQUE
-SUMMARY:Zvv Kan Prima - Los Barrenderos
-DTSTART;TZID=Europe/Amsterdam:20270411T200000
-DTEND;TZID=Europe/Amsterdam:20270411T220000
-DESCRIPTION:Wedstrijd: Zvv Kan Prima - Los Barrenderos\nLocatie: In den bie
- ssen
-LOCATION:In den biessen
+SUMMARY:Fc Talk of The Town - Los Barrenderos
+DTSTART;TZID=Europe/Amsterdam:20261118T193000
+DTEND;TZID=Europe/Amsterdam:20261118T213000
+DESCRIPTION:Wedstrijd: Fc Talk of The Town - Los Barrenderos\nScheidsrechte
+ r: Wiel Hanssen\nLocatie: Palemig
+LOCATION:Palemig
 ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
 END:VEVENT
 BEGIN:VEVENT
-UID:sha-b24508dbf64c084108b19b98@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
-SEQUENCE:0
-STATUS:CONFIRMED
-CLASS:PUBLIC
-TRANSP:OPAQUE
-SUMMARY:Los Barrenderos - Northside
-DTSTART;TZID=Europe/Amsterdam:20270418T200000
-DTEND;TZID=Europe/Amsterdam:20270418T220000
-DESCRIPTION:Wedstrijd: Los Barrenderos - Northside\nLocatie: In den biessen
-LOCATION:In den biessen
-ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
-END:VEVENT
-BEGIN:VEVENT
-UID:sha-84000409f1c87b99f9322e38@mijn-wedstrijd-kalender
-DTSTAMP:20260831T181813Z
-CREATED:20260831T181813Z
-LAST-MODIFIED:20260831T181813Z
+UID:sha-fdaae4d1baf4a3d0041554ff@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
 SEQUENCE:0
 STATUS:CONFIRMED
 CLASS:PUBLIC
 TRANSP:OPAQUE
 SUMMARY:Los Barrenderos - Blue Dynamite
-DTSTART;TZID=Europe/Amsterdam:20270421T203000
-DTEND;TZID=Europe/Amsterdam:20270421T223000
-DESCRIPTION:Wedstrijd: Los Barrenderos - Blue Dynamite\nLocatie: Gitek Nuth
+DTSTART;TZID=Europe/Amsterdam:20261125T203000
+DTEND;TZID=Europe/Amsterdam:20261125T223000
+DESCRIPTION:Wedstrijd: Los Barrenderos - Blue Dynamite\nScheidsrechter: Wie
+ l Hanssen\nLocatie: Gitek Nuth
 LOCATION:Gitek Nuth
+ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
+END:VEVENT
+BEGIN:VEVENT
+UID:sha-0a08cbf52b13c4544c8ebc56@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+CLASS:PUBLIC
+TRANSP:OPAQUE
+SUMMARY:Los Barrenderos - La Sqadra Rosa
+DTSTART;TZID=Europe/Amsterdam:20261209T213000
+DTEND;TZID=Europe/Amsterdam:20261209T233000
+DESCRIPTION:Wedstrijd: Los Barrenderos - La Sqadra Rosa\nScheidsrechter: Wi
+ el Hanssen\nLocatie: Palemig
+LOCATION:Palemig
+ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
+END:VEVENT
+BEGIN:VEVENT
+UID:sha-0207e78cd084b9e45c0a6e0a@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+CLASS:PUBLIC
+TRANSP:OPAQUE
+SUMMARY:Los Barrenderos - NA Carservice
+DTSTART;TZID=Europe/Amsterdam:20261216T193000
+DTEND;TZID=Europe/Amsterdam:20261216T213000
+DESCRIPTION:Wedstrijd: Los Barrenderos - NA Carservice\nScheidsrechter: Mau
+ rice Waalboer\nLocatie: Palemig
+LOCATION:Palemig
+ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
+END:VEVENT
+BEGIN:VEVENT
+UID:sha-80d5d70288931c0604b6959a@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+CLASS:PUBLIC
+TRANSP:OPAQUE
+SUMMARY:Los Barrenderos - Fusion United
+DTSTART;TZID=Europe/Amsterdam:20270110T190000
+DTEND;TZID=Europe/Amsterdam:20270110T210000
+DESCRIPTION:Wedstrijd: Los Barrenderos - Fusion United\nScheidsrechter: Sje
+ f Jaminon\nLocatie: In den biessen
+LOCATION:In den biessen
+ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
+END:VEVENT
+BEGIN:VEVENT
+UID:sha-9b686a4aa0906f9eefe483df@mijn-wedstrijd-kalender
+DTSTAMP:20260922T182000Z
+CREATED:20260922T182000Z
+LAST-MODIFIED:20260922T182000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+CLASS:PUBLIC
+TRANSP:OPAQUE
+SUMMARY:Los Barrenderos - Fc Kubani
+DTSTART;TZID=Europe/Amsterdam:20270117T200000
+DTEND;TZID=Europe/Amsterdam:20270117T220000
+DESCRIPTION:Wedstrijd: Los Barrenderos - Fc Kubani\nScheidsrechter: Sjef Ja
+ minon\nLocatie: In den biessen
+LOCATION:In den biessen
 ORGANIZER;CN=Mijn Wedstrijd Kalender:MAILTO:noreply@wedstrijdkalender.local
 END:VEVENT
 END:VCALENDAR
